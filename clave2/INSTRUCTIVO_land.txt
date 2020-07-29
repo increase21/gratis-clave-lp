@@ -1,0 +1,26 @@
+INSTRUCTIVO:
+
+Sube todos los archivos de la carpeta "land2" a la carpeta de tu sitio donde desees colocarlo. 
+
+Debes hacer una búsqueda en el código del archivo "index.html" para encontrar el enlace del 
+botón, que llevará a la siguiente página. Allí debes colocar tu ID de AFILIADO. 
+
+Por ejemplo, busca el siguiente link:
+https://hop.clickbank.net/?affiliate=IDAFILIADO&vendor=diabeclave&x=cvv39cpu&tid=TuSeguimiento
+
+Y reemplaza allí "IDAFILIADO" por tu ID de Clickbank. 
+
+Si lo deseas puedes editar "TuSeguimiento" y colocar algún texto que te ayude a identificar 
+de donde viene tu venta. Eso lo verás en tu panel de Clickbank. Por ejemplo puedes colocar:
+"tid=facebookpromo1".
+
+Puedes también editar el enlace "Inicio" del menú del pie de página de cada archivo HTML
+Y el mail que figura en la página de Contacto en el archivo "contacto.html"
+
+Cualquier duda, o material que necesites para promocionar, puedes contactarnos: 
+
+info@topaff.net
+
+Buenas ventas!
+Gc.
+
